@@ -1,3 +1,5 @@
+This project is not longer maintained
+---
 # A utility to automate Python project setup.
 To use the setup wizard directly run the respective file.
 
